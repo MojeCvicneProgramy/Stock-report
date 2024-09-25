@@ -8,6 +8,13 @@
 --------
 **Dáta získané pomocou API, nahrané do Power BI ako zdroj pomocou M-language funkcie:**
 
+API zdroj: https://www.alphavantage.co/support/
+
+dokumentácia: https://www.alphavantage.co/documentation/
+
+
+
+
 let Source = (symbol) =>
 
 let
